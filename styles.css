@@ -22,6 +22,7 @@ footer {
 
 .mom { 
   background-image: url("images/sam.PNG");
+  background-repeat: no-repeat;
 }
 
 .grandma {
